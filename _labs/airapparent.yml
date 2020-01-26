@@ -1,0 +1,19 @@
+---
+key: airapparent
+title: Air Apparent UK
+lat: 51.452448
+long: -2.600860
+
+meetings_title: Meetings
+contacts_title: Contact
+
+meetings:
+- text: To arrange a workshop get in touch via email. Follow on Twitter to find out about news and upcoming events.
+
+contacts:
+- name: Sam Prince
+  url: mailto:airapparentuk@gmail.com
+- name: Twitter&#58; @airapparentuk
+  url: https://twitter.com/airapparentuk
+
+website: https://airapparentuk.wordpress.com/
